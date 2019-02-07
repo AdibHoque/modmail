@@ -13,17 +13,7 @@
     <img src="https://cdn.discordapp.com/attachments/519145981917265921/543025770671636491/SubscribeYoutube.png">
   </a>
   
-  <a href="https://github.com/kyb3r/modmail/">
-    <img src="https://cdn.discordapp.com/attachments/519145981917265921/543025771225153546/StarMyGithub.png">
-  </a>
-  
-  <a href="https://patreon.com/kyber">
-    <img src="https://img.shields.io/badge/patreon-donate-orange.svg?style=for-the-badge" alt="Python 3.7">
-  </a>
-  
-  <a href="https://github.com/kyb3r/modmail/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-mit-e74c3c.svg?style=for-the-badge" alt="MIT License">
-  </a>
+
 </div>
 
 ---
