@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/o558Qnq.png" align="center">
+  <img src="https://cdn.discordapp.com/attachments/519145981917265921/543001500079882260/ELECTROHEADER.png" align="center">
   <br>
-  <strong><i>A simple and functional Modmail bot for Discord.</i></strong>
+  <strong><i>A simple moderation & fun bot for Discord.</i></strong>
   <br>
   <br>
     
