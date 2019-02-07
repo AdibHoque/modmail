@@ -6,7 +6,7 @@
   <br>
     
   <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/modmail">
-    <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge">
+    <img src="https://cdn.discordapp.com/attachments/519145981917265921/543022624138067979/JoinDiscord.png">
   </a>
   
   <a href="https://discord.gg/j5e9p8w">
