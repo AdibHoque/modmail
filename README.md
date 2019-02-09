@@ -6,11 +6,11 @@
   <br>
     
   <a href="https://discord.gg/Pp9KudS">
-    <img src="https://cdn.discordapp.com/attachments/519145981917265921/543025770671636494/JoinDiscord.png">
+    <img src="https://cdn.discordapp.com/attachments/519145981917265921/543764882059689997/JoinOurDiscordg.png">
   </a>
   
-  <a href="https://discord.gg/j5e9p8w">
-    <img src="https://cdn.discordapp.com/attachments/519145981917265921/543025770671636491/SubscribeYoutube.png">
+  <a href="https://www.YouTube.com/AdibHoque">
+    <img src="https://cdn.discordapp.com/attachments/519145981917265921/543764882059690000/SubOurYTg.png">
   </a>
   
 
