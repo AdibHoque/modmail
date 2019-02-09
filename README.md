@@ -34,25 +34,25 @@ ELECTRO commands can be used by the prefix `e!` or by mentioning `@ELECTRO`. If 
 
 ## PAGE 1 | GENERAL COMMANDS
 
-Modmail has a range of configuration variables that you can dynamically alter with the `?config` command. You can use them to change the different aspects of the bot, for example, the embed color, responses, reactions, status, etc. Snippets and custom command aliases are also supported. Snippets are shortcuts for predefined messages that you can send. Add or remove snippets with the `?snippets` command. The level of customization is ever growing thanks to our exceptional contributors.
+`ping`,`userinfo`,`serverinfo`,`ownerinfo`,`avatar`,`membercount`,`invite`,`upvote` 
 
 ## PAGE 2 | MODERATION COMMANDS
 
 
-Have you sent something with the `?reply` command by accident? Don't fret, you can delete your original message, and the bot will automatically delete the corresponding message sent to the recipient of the thread!  You can also use the `?edit` command to edit a message you sent.
+`kick`,`ban`,`setnick`,`role`,`say`,`DM`,`english`,`rolecolor` 
 
-## Thread Logs
+## PAGE 3 | FUN COMMANDS
 
-Thread conversations are automatically logged with a generated viewable website of the complete thread. Logs are rendered with styled HTML and presented in an aesthetically pleasing way—it blends seamlessly with the mobile version of Discord. An example of a logged conversation: https://logs.modmail.tk/02032d65a6f3
+`joke`,`love`,`slap`, `kiss`, `hug`, `virgin`, `gender`, `tweet`, `rolldice`, `flipcoin`, `howgay` 
 
-## Automatic Updates
+## PAGE 4 | EMOJI COMMANDS
 
-The bot checks for new updates every hour and will automatically update to the newest version. Modmail is under active development, which means that you can always look forward to new and useful features! To disable this functionality, for example, when you customized your fork, you can do so by adding a `disable_autoupdates` config variable and set it to `yes` or `true`. 
+`fortnite`, `hundred`, `party`, `dogdance`, `hype`, `plsboi` 
 
 ---
 
-# Contributing
+# CONTRIBUTE
 
-This project is licenced under MIT. If you have any new ideas, create an issue or a pull request. Contributions to Modmail are always welcome, whether it be improvements to the documentation or new functionality, please feel free make the change.
+This project is licenced under MIT. If you have any new ideas, create an issue or a pull request. Contributions to ELECTRO are always welcome, whether it be improvements to the documentation or new functionality, please feel free contract us.
 
-If you use Modmail and love it, consider supporting me on **[Patreon](https://www.patreon.com/kyber)** :heart:
+If you are using ELECTRO and love it, consider joining our **[Discord Server](https://www.patreon.com/kyber)** :heart:
