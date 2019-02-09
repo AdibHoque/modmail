@@ -26,7 +26,7 @@ ELECTRO is a moderation bot as well as a fun bot. ELECTRO has all the moderation
 
 ## PREFIX OF ELECTRO
 
-ELECTRO commands can be used by the prefix `e!` or by mentioning `@ELECTRO`. If you want to use commands by mentioning you must put a space after the mention or thr command won't work. 
+ELECTRO commands can be used by the prefix `e!` or by mentioning `@ELECTRO`. If you want to use commands by mentioning you must put a space after the mention or the command won't work. 
 
 ---
 
