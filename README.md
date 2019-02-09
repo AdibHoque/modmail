@@ -5,7 +5,7 @@
   <br>
   <br>
     
-  <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/modmail">
+  <a href="https://discord.gg/Pp9KudS">
     <img src="https://cdn.discordapp.com/attachments/519145981917265921/543025770671636494/JoinDiscord.png">
   </a>
   
@@ -55,4 +55,4 @@ ELECTRO commands can be used by the prefix `e!` or by mentioning `@ELECTRO`. If 
 
 This project is licenced under MIT. If you have any new ideas, create an issue or a pull request. Contributions to ELECTRO are always welcome, whether it be improvements to the documentation or new functionality, please feel free contract us.
 
-If you are using ELECTRO and love it, consider joining our **[Discord Server](https://www.patreon.com/kyber)** :heart:
+If you are using ELECTRO and love it, consider joining our **[Discord Server](https://discord.gg/Pp9KudS)** :heart:
