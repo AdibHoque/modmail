@@ -15,7 +15,11 @@
   
 
 </div>
+<a href="https://discordbots.org/bot/510491243155816449" >
 
+  <img src="https://discordbots.org/api/widget/status/510491243155816449.svg" alt="ELECTRO" />
+
+</a> 
 ---
 
 ## WHAT DOES ELECTRO DO? 
